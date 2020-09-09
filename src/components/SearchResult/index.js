@@ -25,8 +25,8 @@ class SearchResult extends Component {
       githubOrg: [],
       githubRepo: [],
       loaded: false,
-      error: false,
-      pageNum: 5
+      error: false, 
+      pageNum: 10
     };
   }
 
